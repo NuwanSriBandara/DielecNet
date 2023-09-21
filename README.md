@@ -1,2 +1,2 @@
 # DielecNet
-Explainable AI-inspired Contrastive Deep Neural Network for the Dielectric Characterization of Biomimetic Materials
+Explainable AI-guided Contrastive Deep Neural Network for the Dielectric Characterization of Biomimetic Materials
