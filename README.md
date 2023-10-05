@@ -1,2 +1,2 @@
 # DielecNet
-(Tentative) Title: Explainable AI-guided Contrastive Deep Neural Network for the Dielectric Characterization of Biomimetic Materials
+Title: Explainable AI-guided Contrastive Deep Neural Network for the Broadband Dielectric Characterization of Lossy Materials
