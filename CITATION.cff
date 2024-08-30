@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Complex-Valued DNN for Broadband Dielectric
+  Characterization of Dispersive Lossy Materials
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nuwan
+    family-names: Bandara
+    affiliation: Singapore Management University
+  - given-names: Martina
+    family-names: Gugliermino
+    affiliation: ' Politecnico di Torino, Italy'
+  - given-names: David
+    family-names: Rodriguez-Duarte
+    affiliation: 'Politecnico di Torino, Italy'
+repository-code: 'https://github.com/NuwanSriBandara/DielecNet'
+abstract: >-
+  This paper presents a broadband dielectric
+  characterization method based on a Complex-Valued Deep
+  Neural Network (CVNN) that allows the retrieval of
+  permittivity and conductivity dispersive lossy materials
+  using ad-hoc setups. To validate the method, we
+  numerically tested it employing a partially filled
+  custom-made double-ridge waveguide setup, working from
+  0.95 to 4.2 GHz. Then, to investigate the rationale behind
+  CVNN predictions, we utilize model-agnostic explainable-AI
+  (XAI) techniques to find the causality with its physics.
+  The results demonstrate the flexibility and retrieval
+  capabilities of the method, as well as the advantages and
+  drawbacks in comparison with traditional techniques.
+  Moreover, we publicly release the dataset and codes to
+  support further research.
+license: MIT
