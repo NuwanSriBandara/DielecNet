@@ -6,4 +6,4 @@ Title: AI for Broadband Dielectric Characterization of Dispersive Lossy Material
 # News
 
 * **(Oct 25, 2024)** 
-  * One of our papers: "Complex-Valued DNN for Broadband Dielectric Characterization of Dispersive Lossy Materials", accepted at [LACAP 2024](https://lacap2024.org/)
+  * Our paper: "Complex-Valued DNN for Broadband Dielectric Characterization of Dispersive Lossy Materials", is accepted at [LACAP 2024](https://lacap2024.org/)
